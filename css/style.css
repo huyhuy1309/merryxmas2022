@@ -1051,8 +1051,8 @@ body {
 .christmas-img{
     max-width: 120px;
     position: absolute;
-    animation: snow-2 20s linear infinite;
-    -webkit-animation: snow-2 20s linear infinite;
+    animation: snow-2 30s linear infinite;
+    -webkit-animation: snow-2 30s linear infinite;
 }
 .christmas-img.pause-animation{
     animation: none;
