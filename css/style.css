@@ -1192,6 +1192,16 @@ body {
     left: 70%;
     animation-delay: .43s;
 }
+.christmas-img.item-27{
+    top: 61%;
+    left: 54%;
+    animation-delay: .43s;
+}
+.christmas-img.item-28{
+    top: 61%;
+    left: 46%;
+    animation-delay: .43s;
+}
 
 @keyframes snow-2 {
 
